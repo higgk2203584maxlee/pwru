@@ -49,3 +49,5 @@ if(CMAKE_SYSTEM_NAME STREQUAL "FreeBSD" OR
 endif()
 
 add_subdirectory(fuzz)
+
+# Update: 2025-10-06
