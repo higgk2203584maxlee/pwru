@@ -46,3 +46,5 @@ MIT
 # Author
 
 Yasuhiro Matsumoto (a.k.a mattn)
+
+<!-- Auto-update: 2025-10-17T13:53:16.242799 -->
